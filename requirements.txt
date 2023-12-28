@@ -16,3 +16,4 @@ sqlparse==0.4.4
 tzdata==2023.3
 virtualenv==20.25.0
 wheel==0.42.0
+gunicorn==19.7.1
